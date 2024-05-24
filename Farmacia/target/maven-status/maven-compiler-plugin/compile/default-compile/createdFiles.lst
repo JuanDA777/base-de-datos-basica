@@ -1,0 +1,9 @@
+com\mycompany\farmacia\GestionarFarmacia.class
+servlets\SvEditarMedicamento.class
+servlets\SvCategoria.class
+servlets\SvMedicamento.class
+servlets\SvEliminarCategoria.class
+com\mycompany\farmacia\JAXRSConfiguration.class
+com\mycompany\farmacia\resources\JavaEE8Resource.class
+servlets\SvEditarCategoria.class
+servlets\SvEliminarMedicamento.class
